@@ -1,4 +1,6 @@
-# House-Prediction - Kaggle-Competitions
+# House Price Prediction - Kaggle Competitions
+
+This is the link of kaggle competitions: https://www.kaggle.com/c/house-prices-advanced-regression-techniques </br>
 The jupyter notebook file explain in details all the techniques used. The script.py file generate the csv file of the predictions without any chart or explanation.
 
 Techniques used: </br>
